@@ -9,7 +9,7 @@ Working on building Scalable Data Intensive Pipelines for a B2B Product Based or
 
 # 💻 Tech Stack:
 ## 🗄️Data
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Data Modeling](https://img.shields.io/badge/Data_Modeling-FABD14?style=for-the-badge&logo=uml&logoColor=blue&color=orange) ![Apache Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  ![NoSQL](https://img.shields.io/badge/NoSQL-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)
 
 
@@ -31,7 +31,6 @@ Working on building Scalable Data Intensive Pipelines for a B2B Product Based or
 ## ⚙️ Engineering
  ![DSA Badge](https://img.shields.io/badge/DSA-00BCB4?style=for-the-badge&logo=thealgorithms&logoColor=white)
  ![System Design](https://img.shields.io/badge/System_Design-2196F3?style=for-the-badge&logo=materialdesignicons&logoColor=white&color=A6A6A6)
- ![Data Modeling](https://img.shields.io/badge/Data_Modeling-FABD14?style=for-the-badge&logo=uml&logoColor=blue&color=orange)
  ![Prompt Eng](https://img.shields.io/badge/prompt_Engineering-412991?style=for-the-badge&logo=openai&logoColor=yellow&color=FFFDEA)
  ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
