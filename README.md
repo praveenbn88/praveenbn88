@@ -1,3 +1,5 @@
+<img src="banner.png" alt="GitHub Banner" width="100%" />
+
 # 👨‍💻 About Me:
 Working on building Scalable Data Intensive Pipelines for a B2B Product Based org<br>Big Data Engineer with 6+ Years of Experience<br>Medium Blog Writer<br>Open Source Contributor
 
