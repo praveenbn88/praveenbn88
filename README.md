@@ -30,7 +30,7 @@ Working on building Scalable Data Intensive Pipelines for a B2B Product Based or
  ![DSA Badge](https://img.shields.io/badge/DSA-00BCB4?style=for-the-badge&logo=thealgorithms&logoColor=white)
  ![System Design](https://img.shields.io/badge/System_Design-2196F3?style=for-the-badge&logo=materialdesignicons&logoColor=white&color=A6A6A6)
  ![Data Modeling](https://img.shields.io/badge/Data_Modeling-FABD14?style=for-the-badge&logo=uml&logoColor=blue&color=orange)
- ![Prompt Eng](https://img.shields.io/badge/prompt_Engineering-412991?style=for-the-badge&logo=openai&logoColor=yellow&color=white)
+ ![Prompt Eng](https://img.shields.io/badge/prompt_Engineering-412991?style=for-the-badge&logo=openai&logoColor=yellow&color=FFF4E6)
  ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 <picture>
