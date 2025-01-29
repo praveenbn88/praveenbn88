@@ -1,8 +1,7 @@
 <img src="Banner.png" alt="GitHub Banner" width="100%" />
 
 # 👨‍💻 About Me:
-Working on building Scalable Data Intensive Pipelines for a B2B Product Based org<br>Big Data Engineer with 6+ Years of Experience<br>Medium Blog Writer<br>Open Source Contributor
-
+💻 Working on building Scalable Data Intensive Pipelines for a B2B Product Based org<br>💾 Big Data Engineer with 6+ Years of Experience<br>📝 Medium Blog Writer<br>🥇 Gold Medalist in Computer Science & Engineering
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/praveen-kumar-bn) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@praveenbn88) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18087660) 
