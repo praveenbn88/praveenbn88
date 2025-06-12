@@ -11,7 +11,7 @@ I regularly share insights on data engineering, big data technologies, and indus
 - [DDIA](https://medium.com/@praveenbn88/ddia-series-chapter-1-part-1-reliability-c8f58feb7c8f)
 
 ### 🎓 Workshops & Training
-I've conducted technical workshops and training sessions on:
+I've conducted several technical workshops and training sessions on:
 - **Apache Spark & Big Data Processing** - Hands-on workshops for over 500+ engineering students
 - **AWS Data Services** - Cloud-native data solutions workshops
 
