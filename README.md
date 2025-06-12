@@ -1,7 +1,25 @@
 <img src="Github_Banner.png" alt="GitHub Banner" width="100%" />
 
 # 👨‍💻 About Me:
-💻 Working on building Scalable Data Intensive Pipelines for a B2B Product Based org<br>💾 Big Data Engineer with 6+ Years of Experience<br>📝 Medium Blog Writer<br>🥇 Gold Medalist in Computer Science & Engineering
+💾 Big Data Engineer with 6+ Years of Experience<br>💻 Working on building Scalable Data Intensive Pipelines for a B2B Product Based org<br>📝 Medium Blog Writer<br>🥇 Gold Medalist in Computer Science & Engineering
+
+## 📝 Thought Leadership & Workshops:
+### 🖊️ Medium Articles
+I regularly share insights on data engineering, big data technologies, and industry best practices. Check out my latest articles:
+- [Spark Performance Tuning](https://medium.com/@praveenbn88/performance-tuning-how-we-brought-down-the-join-runtime-from-10-hours-to-under-30-minutes-in-db5b76495c14)
+- [Spark Custom Job Description](https://medium.com/@praveenbn88/custom-job-description-in-spark-the-lesser-known-feature-d9e1e56f2344) 
+- [DDIA](https://medium.com/@praveenbn88/ddia-series-chapter-1-part-1-reliability-c8f58feb7c8f)
+
+### 🎓 Workshops & Training
+I've conducted technical workshops and training sessions on:
+- **Apache Spark & Big Data Processing** - Hands-on workshops for over 500+ engineering students
+- **AWS Data Services** - Cloud-native data solutions workshops
+
+## 🚀 Personal Projects:
+### 💡 Data Engineering Projects
+- **[ride_app_streaming_analytics](https://github.com/praveenbn88/data_eng/tree/main/Projects/ride_app_streaming_analytics)** - Apache Kafka + Spark Streaming pipeline for real-time surge pricing & analytics
+- **[Stats Collection Framework for Spark](https://github.com/praveenbn88/data_eng/tree/main/Projects/spark_custom_stats)** - Automated Stats collection Framework for Apache Spark
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/praveen-kumar-bn) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@praveenbn88) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18087660) 
@@ -40,9 +58,7 @@
 </picture>
  
 # 📈 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=praveenbn88&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=praveenbn88&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=praveenbn88&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=praveenbn88&icon=0&color=0)](https://visitcount.itsvg.in)
